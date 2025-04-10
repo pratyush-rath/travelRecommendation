@@ -1,0 +1,58 @@
+{
+    "places": [
+        {
+            "name": "Puri Beach",
+            "keywords": ["beach", "beaches", "puri"],
+            "description": "Puri is known for Lords Jagannath temple and beach.",
+            "imageUrl": "images/puri-beach.jpg"
+        },
+        {
+            "name": "Digha Beach",
+            "keywords": ["beach", "beaches", "digha"],
+            "description": "Digha is known for its amazing beach.",
+            "imageUrl": "images/digha-beach.jpg"
+        },
+        {
+            "name": "Gopalpur Beach",
+            "keywords": ["beach", "beaches", "gopalpur"],
+            "description": "Gopalpur is known fit's beach.",
+            "imageUrl": "images/gopalpur-beach.jpg"
+        },
+        {
+            "name": "Taratarini Temple",
+            "keywords": ["temple", "taratatini", "temples"],
+            "description": "Taratarini is an new age temple situated on hilltop.",
+            "imageUrl": "images/taratarini-temple.jpg"
+        },
+        {
+            "name": "Lingaraj Temple",
+            "keywords": ["temple", "lingaraj", "temples"],
+            "description": "Lingaraj is an ancient temple in the city of temple Bhubaneswar.",
+            "imageUrl": "images/lingaraj_temple.jpg"
+        },
+        {
+            "name": "Konark Sun Temple",
+            "keywords": ["temple", "konark", "temples"],
+            "description": "Konark Sun Temple is an ancient temple.",
+            "imageUrl": "images/konark-sun-temple.jpg"
+        },
+        {
+            "name": "Mexico",
+            "keywords": ["USA", "mexico", "country", "america"],
+            "description": "Mexico is known for its skyline, Central Park, Times Square and culture.",
+            "imageUrl": "images/mexico.jpg"
+        },
+        {
+            "name": "Japan",
+            "keywords": ["japan", "country", "countries"],
+            "description": "Japan is known for its skyline, Central Park, Times Square and culture.",
+            "imageUrl": "images/japan.jpg"
+        },
+        {
+            "name": "India",
+            "keywords": ["india", "country", "countries"],
+            "description": "India is known for its everything.",
+            "imageUrl": "images/india.jpg"
+        }
+    ]
+}
